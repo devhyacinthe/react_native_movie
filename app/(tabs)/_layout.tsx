@@ -117,4 +117,3 @@ const _Layout = () => {
 
 export default _Layout;
 
-const styles = StyleSheet.create({});
