@@ -1,5 +1,5 @@
-const MOVIE_API_KEY =
-  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0MTk5OGMxYjk2MmU0ZTAxYzllNmU4M2I3NDcyNDE0ZSIsIm5iZiI6MTY1OTU0MDk5MC42NjYsInN1YiI6IjYyZWE5NWZlODU2NmQyMDA1YTQ4MmUzOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.NKJpfL1ahCSreRsFKtETZahUHUpZQipROHun4iiDuDo";
+const MOVIE_API_KEY = ""
+  
 
 export const TMDB_CONFIG = {
   BASE_URL: "https://api.themoviedb.org/3",
